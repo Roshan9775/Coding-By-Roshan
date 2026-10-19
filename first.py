@@ -1,1 +1,1 @@
-print("Hello bhai kaise ho , kaam kaise chal rha hai")
+print("good morning")
